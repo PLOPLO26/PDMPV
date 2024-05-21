@@ -1,0 +1,6 @@
+2024/05/21-12:34:55.728 21ac Creating DB C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/21-12:34:55.906 21ac Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/21-12:34:57.939 46cc Level-0 table #5: started
+2024/05/21-12:34:57.957 46cc Level-0 table #5: 362 bytes OK
+2024/05/21-12:34:57.960 46cc Delete type=0 #3
+2024/05/21-12:34:57.960 46cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
