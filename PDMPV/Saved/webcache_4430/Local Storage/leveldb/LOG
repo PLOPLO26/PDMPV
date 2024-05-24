@@ -1,2 +1,6 @@
-2024/05/21-12:31:33.428 3af4 Creating DB C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/05/21-12:31:34.562 3af4 Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/24-09:06:09.119 99c Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/24-09:06:09.137 99c Recovering log #3
+2024/05/24-09:06:09.140 99c Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/24-09:24:57.028 2ac8 Level-0 table #5: started
+2024/05/24-09:24:57.062 2ac8 Level-0 table #5: 17333 bytes OK
+2024/05/24-09:24:57.065 2ac8 Delete type=0 #3
