@@ -1,3 +1,6 @@
-2024/06/07-10:09:25.255 3778 Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/06/07-10:09:25.257 3778 Recovering log #4
-2024/06/07-10:09:25.259 3778 Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/06/21-08:17:20.245 504c Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/21-08:17:20.254 504c Recovering log #4
+2024/06/21-08:17:20.255 504c Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/06/21-08:19:26.177 5058 Level-0 table #8: started
+2024/06/21-08:19:26.182 5058 Level-0 table #8: 17602 bytes OK
+2024/06/21-08:19:26.185 5058 Delete type=0 #4
