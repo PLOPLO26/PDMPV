@@ -1,4 +1,3 @@
-[0721/134501.014:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
-[0721/134501.016:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Cache to C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\old_Cache_000
-[0721/134501.016:ERROR:disk_cache.cc(184)] Unable to create cache
-[0721/134646.727:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0721/154836.190:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 17
+[0721/154836.190:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 19
+[0721/155015.307:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
