@@ -1,1 +1,4 @@
-[0720/222701.802:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0721/134501.014:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0721/134501.016:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Cache to C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\old_Cache_000
+[0721/134501.016:ERROR:disk_cache.cc(184)] Unable to create cache
+[0721/134646.727:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
