@@ -1,3 +1,8 @@
-2024/07/12-10:22:39.670 2e00 Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/12-10:22:39.671 2e00 Recovering log #25
-2024/07/12-10:22:39.671 2e00 Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000025.log 
+2024/07/21-23:08:52.667 18fc Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/21-23:08:52.668 18fc Recovering log #28
+2024/07/21-23:08:52.669 18fc Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000028.log 
+2024/07/21-23:08:57.486 47c Level-0 table #32: started
+2024/07/21-23:08:57.487 47c Level-0 table #32: 0 bytes OK
+2024/07/21-23:08:57.488 47c Delete type=0 #28
+2024/07/21-23:08:57.488 47c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/21-23:08:57.489 47c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
