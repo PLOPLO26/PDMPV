@@ -1,17 +1,3 @@
-2024/07/21-23:05:45.184 4f18 Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/07/21-23:05:45.194 4f18 Recovering log #17
-2024/07/21-23:05:45.195 4f18 Level-0 table #19: started
-2024/07/21-23:05:45.199 4f18 Level-0 table #19: 14960 bytes OK
-2024/07/21-23:05:45.202 4f18 Delete type=0 #17
-2024/07/21-23:05:45.204 1898 Compacting 4@0 + 1@1 files
-2024/07/21-23:05:45.218 1898 Generated table #21@0: 13 keys, 4390 bytes
-2024/07/21-23:05:45.218 1898 Compacted 4@0 + 1@1 files => 4390 bytes
-2024/07/21-23:05:45.219 1898 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/07/21-23:05:45.220 1898 Delete type=2 #8
-2024/07/21-23:05:45.220 1898 Delete type=2 #11
-2024/07/21-23:05:45.220 1898 Delete type=2 #14
-2024/07/21-23:05:45.220 1898 Delete type=2 #16
-2024/07/21-23:05:45.221 1898 Delete type=2 #19
-2024/07/21-23:51:56.338 3de8 Level-0 table #23: started
-2024/07/21-23:51:56.344 3de8 Level-0 table #23: 16089 bytes OK
-2024/07/21-23:51:56.347 3de8 Delete type=0 #20
+2024/08/10-21:20:39.141 65a8 Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/10-21:20:39.155 65a8 Recovering log #25
+2024/08/10-21:20:39.157 65a8 Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000025.log 

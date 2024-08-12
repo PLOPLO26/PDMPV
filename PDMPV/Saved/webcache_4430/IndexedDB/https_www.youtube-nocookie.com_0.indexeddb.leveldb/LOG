@@ -1,15 +1,15 @@
-2024/07/21-23:08:57.638 47c Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/21-23:08:57.639 47c Recovering log #31
-2024/07/21-23:08:57.639 47c Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000031.log 
-2024/07/22-00:09:43.656 1cc4 Level-0 table #35: started
-2024/07/22-00:09:43.666 1cc4 Level-0 table #35: 190 bytes OK
-2024/07/22-00:09:43.668 1cc4 Delete type=0 #31
-2024/07/22-00:09:43.669 1cc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2024/07/22-00:09:43.669 1cc4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 73 : 1
-2024/07/22-00:09:43.669 1cc4 Compacting 1@1 + 1@2 files
-2024/07/22-00:09:43.682 1cc4 Generated table #36@1: 18 keys, 536 bytes
-2024/07/22-00:09:43.682 1cc4 Compacted 1@1 + 1@2 files => 536 bytes
-2024/07/22-00:09:43.683 1cc4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/22-00:09:43.683 1cc4 Delete type=2 #17
-2024/07/22-00:09:43.683 1cc4 Delete type=2 #35
-2024/07/22-00:09:43.683 1cc4 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 73 : 1 .. (end); will stop at (end)
+2024/08/10-17:49:20.904 47d4 Reusing MANIFEST C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-17:49:20.905 47d4 Recovering log #34
+2024/08/10-17:49:20.905 47d4 Reusing old log C:/Users/ximen/Desktop/PDMPV/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000034.log 
+2024/08/10-19:18:59.779 1dcc Level-0 table #39: started
+2024/08/10-19:18:59.794 1dcc Level-0 table #39: 190 bytes OK
+2024/08/10-19:18:59.797 1dcc Delete type=0 #34
+2024/08/10-19:18:59.798 1dcc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/10-19:18:59.799 1dcc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 74 : 1
+2024/08/10-19:18:59.800 1dcc Compacting 1@1 + 1@2 files
+2024/08/10-19:18:59.824 1dcc Generated table #40@1: 18 keys, 534 bytes
+2024/08/10-19:18:59.824 1dcc Compacted 1@1 + 1@2 files => 534 bytes
+2024/08/10-19:18:59.825 1dcc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/10-19:18:59.825 1dcc Delete type=2 #36
+2024/08/10-19:18:59.825 1dcc Delete type=2 #39
+2024/08/10-19:18:59.827 1dcc Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 74 : 1 .. (end); will stop at (end)
